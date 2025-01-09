@@ -9,7 +9,7 @@ This repository contains my configuration files for customizing my Linux desktop
 
 ## Preview
 
-[Whitesur GTK theme screenshot](https://cloud-jesdcpwtf-hack-club-bot.vercel.app/0desktop.png)
+![Whitesur GTK theme screenshot](desktop.png)
 
 ## Notes
 
